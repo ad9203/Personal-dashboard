@@ -27,15 +27,8 @@ npm run dev
 - Modern UI components
 - TypeScript support
 
-## Deployment
-
-To deploy this project:
-
-1. Build the project:
-```bash
-npm run build
-```
-2. Deploy the contents of the `dist` directory to your hosting provider.
+## Deployement
+- Live Project Link :- https://personal-dashboard-three-psi.vercel.app/
 
 ## Custom Domain
 
